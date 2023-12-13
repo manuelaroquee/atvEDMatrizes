@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main(){
     int R[4][5];
 
@@ -19,7 +18,7 @@ int main(){
             }
         }
     }
-    // b) Seja A uma matriz 5x5.  Fazer um programa para determinar a média dos elementos da diagonal principal de A.
+    /* b) Seja A uma matriz 5x5.  Fazer um programa para determinar a média dos elementos da diagonal principal de A.*/
     printf("O maior elemento de R é: %d\n", maiorElemento);
 
     return 0;
